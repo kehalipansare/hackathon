@@ -13,8 +13,3 @@ This notebook contains solution codes for the hackathon questions.
 - Jupyter Notebook
 - SQLite
 - Pandas
-
-## How to Run
-- Open the notebook
-- Run cells in order
-- Ensure `restaurants.sql` is present
